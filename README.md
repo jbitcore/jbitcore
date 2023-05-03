@@ -4,7 +4,7 @@
 ## Tutoriais:
   ## Windows 10 e 11
   - [Remover OneDrive do Sistema](https://www.jbitcore.tec.br/tutoriais/windows-10-e-11/remover-onedrive-do-sistema)
-  - [Habilitando o protocolo ICMP](PING)](https://www.jbitcore.tec.br/tutoriais/windows-10-e-11/habilitando-o-protocolo-icmpping)
+  - [Habilitando o protocolo ICMP(PING)](https://www.jbitcore.tec.br/tutoriais/windows-10-e-11/habilitando-o-protocolo-icmpping)
   - [Desinstalar aplicativos pre-instalados](https://www.jbitcore.tec.br/tutoriais/windows-10-e-11/windows-10-desinstalar-aplicativos-pr%C3%A9-instalados)
   - [Navegar na Internet Conectado a VPN](https://www.jbitcore.tec.br/tutoriais/windows-10-e-11/sem-acesso-%C3%A0-internet-ao-se-conectar-%C3%A0-vpn)
   ## VMWare
