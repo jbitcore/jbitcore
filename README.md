@@ -23,6 +23,7 @@
   - [Criando usuarios no Linux via Terminal](https://www.jbitcore.tec.br/tutoriais/linux/criando-usu%C3%A1rios-no-linux-via-terminal)
   - [Como desmontar um dispositivo ocupado no Linux](https://www.jbitcore.tec.br/tutoriais/linux/como-desmontar-um-dispositivo-ocupado-no-linux)
   - [Montar um compartilhamento NFS](https://www.jbitcore.tec.br/tutoriais/linux/montar-um-compartilhamento-nfs)
+  - [Instalar Graylog no Oracle Linux 8.7](https://www.jbitcore.tec.br/tutoriais/linux/instalar-graylog-no-oracle-linux-8-7)
   ## SAMBA & RSAT
   - [Samba Domain Controller - Rocky Linux 8](https://www.jbitcore.tec.br/tutoriais/samba-rsat/samba-domain-controller-rocky-linux-8)
   - [Como corrigir o erro de RPC no RSAT/Samba](https://www.jbitcore.tec.br/tutoriais/samba-rsat/o-servidor-rpc-nao-esta-disponivel)
