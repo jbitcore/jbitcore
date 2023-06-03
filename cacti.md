@@ -88,7 +88,7 @@ sudo mysql -u root -p
 ```
 ```sql
 CREATE DATABASE cacti;
-GRANT ALL ON cacti.* TO 'cacti'@'localhost' IDENTIFIED BY 'senhadobanco';
+GRANT ALL ON cacti.* TO 'cacti'@'localhost' IDENTIFIED BY '<Senha-usuário-cacti>';
 FLUSH PRIVILEGES;
 EXIT 
 ```
