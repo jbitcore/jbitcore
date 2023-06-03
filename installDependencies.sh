@@ -1,3 +1,5 @@
+# Este script instala as dependeincias necessárias para a compilar Samba a partir do source code.
+# 
 set -xueo pipefail
 
 yum update -y
