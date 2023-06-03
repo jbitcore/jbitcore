@@ -177,5 +177,5 @@ sudo firewall-cmd --reload
 ```
 
 ```bash
-curl http://10.213.101.126/cacti
+curl http://localhost/cacti
 ```
